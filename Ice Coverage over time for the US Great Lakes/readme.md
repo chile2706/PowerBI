@@ -6,12 +6,16 @@
 - [Data Visualization](#data-visualization)
 ---
 ## Problem Introduction
-(snap shot of a whole dashboard)
+![Page 1](https://github.com/chile2706/PowerBI/assets/147631781/60e6a7d3-5b39-45ec-96fd-411cb18218b6)
+![Page 2](https://github.com/chile2706/PowerBI/assets/147631781/20359b59-61a0-466e-a7f8-c0d476d859a1)
+
+
 
 * This dashboard was based on [Power Bi 2021 Week 7 Challenge by Workout Wednesday](https://workout-wednesday.com/pbi-2021-w07/)
-####Data set:
+#### Data set:
 * `maximum ice coverage` data from NOAA’s Great Lakes Environmental Research Laboratory. A lake can have ice coverage ranging from 0 (no ice) to 100 (frozen over). [Link](https://data.world/dataveld/wow2021week07)
-* Snap shot of data: (embed a snapshot of the data)
+![image](https://github.com/chile2706/PowerBI/assets/147631781/6e1ac355-4084-4184-85b2-73bb81365bac)
+
 ---
 ## Skills Overview
 * `Button`
@@ -23,6 +27,7 @@
 ## Data Transformation
 * `Unpivot`: change the individual lake columns into rows
 * `Year Format to use Forcasting`
+![image](https://github.com/chile2706/PowerBI/assets/147631781/a7c9966b-b871-4680-8f42-fe713a0554f4)
 ---
 ## Data Visualization
 * [Page 1: Conditional Formating](#page-1)
@@ -34,6 +39,7 @@
 - [Matrix: Maximum Coverage by Lake](#[matrix]-maximum-coverage-by-lake)
 - [Button: navigate to Page 2](#[button]-navigate-to-page-2)
 - [Insights](#insights)
+![Page 1](https://github.com/chile2706/PowerBI/assets/147631781/60e6a7d3-5b39-45ec-96fd-411cb18218b6)
 
 #### [Slicer] Year Range
 (snapshot)
