@@ -47,6 +47,7 @@
 - `Maxtrix` Min and Max Ice coverage of each lake of all time
 - `Forcasting Line Chart` Average Coverage by Year
 - `Anomalies Line Chart` Average Coverage by Year
+
 ![Page 2](https://github.com/chile2706/PowerBI/assets/147631781/20359b59-61a0-466e-a7f8-c0d476d859a1)
 
 ## Insights
@@ -58,20 +59,27 @@
 
 
 **Is ice coverage trending *upward* over time for any lake?**
-Erie <img width = 600 src= "https://github.com/chile2706/PowerBI/assets/147631781/3067a3f7-76ff-4aaa-b942-85f0aeeb3cb3">
-Huron <img width = 600 src= "https://github.com/chile2706/PowerBI/assets/147631781/5ce66f9f-6d31-4843-a795-c099d911cd7c">
+- Add a slicer to filter the lake we want to examine the ice coverage trend over time
+- Apply filter to each lake we see that both 5 lakes have a downward ice coverage trend over time
+Erie 
+
+<img width = 600 src= "https://github.com/chile2706/PowerBI/assets/147631781/3067a3f7-76ff-4aaa-b942-85f0aeeb3cb3">
+
+Huron 
+
+<img width = 600 src= "https://github.com/chile2706/PowerBI/assets/147631781/5ce66f9f-6d31-4843-a795-c099d911cd7c">
 
 Michigan
 
-![image](https://github.com/chile2706/PowerBI/assets/147631781/bbb9a6f2-f8fa-42bd-9c98-974cd5101232)
+<img width = 600 src = "https://github.com/chile2706/PowerBI/assets/147631781/bbb9a6f2-f8fa-42bd-9c98-974cd5101232">
 
 Ontario
 
-![image](https://github.com/chile2706/PowerBI/assets/147631781/13d6d527-b110-4230-aad1-34fa27d34d89)
+<img width = 600 src = "https://github.com/chile2706/PowerBI/assets/147631781/13d6d527-b110-4230-aad1-34fa27d34d89">
 
 Superior
 
-![image](https://github.com/chile2706/PowerBI/assets/147631781/a31d94aa-1f21-4b2e-8381-b1b54fb2c4f3)
+<img width = 600 src = "https://github.com/chile2706/PowerBI/assets/147631781/a31d94aa-1f21-4b2e-8381-b1b54fb2c4f3">
 
 **What is the projected average ice coverage in 2030?**
 ![Screenshot 2024-01-19 141550](https://github.com/chile2706/PowerBI/assets/147631781/95030256-7873-4e60-804e-6b6f420dfe5a)
