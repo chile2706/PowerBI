@@ -34,32 +34,32 @@
 * [Page 1: Conditional Formating](#page-1)
 * [Page 2: Forcasting and Anomaly Detection](#page-2)
 ### Page 1
-- Slicer: Year Range
-- Line chart: Average Coverage by Year
-- Bar chart: Maximum Historical Coverage
-- Matrix: Maximum Coverage by Lake
-- Button: navigate to Page 2
+- `Slicer` Year Range
+- `Line chart` Average Coverage by Year
+- `Bar chart` Maximum Historical Coverage
+- `Matrix` Maximum Coverage by Lake
+- `Button` navigate to Page 2
   
 ![Page 1](https://github.com/chile2706/PowerBI/assets/147631781/60e6a7d3-5b39-45ec-96fd-411cb18218b6)
 
 
 ### Page 2
-- [Maxtrix: Min and Max Ice coverage of each lake of all time]()
-- [Forcasting Line Chart: Average Coverage by Year]()
-- [Anomalies Line Chart: Average Coverage by Year]()
+- `Maxtrix` Min and Max Ice coverage of each lake of all time
+- `Forcasting Line Chart` Average Coverage by Year
+- `Anomalies Line Chart` Average Coverage by Year
+![Page 2](https://github.com/chile2706/PowerBI/assets/147631781/20359b59-61a0-466e-a7f8-c0d476d859a1)
 
 ## Insights
 **Which lake has frozen completely over most often?**
+- Apply filter to see which lakes have been once frozen throughout the history
+- The result shows there are only 2 Lakes that have been completely frozen, Erie for 3 years and Superior for a year.
+- Thus, Erie has frozen completely over most often.
 ![image](https://github.com/chile2706/PowerBI/assets/147631781/6666126f-e298-42ee-b3fa-82498c547fbe)
 
 
 **Is ice coverage trending *upward* over time for any lake?**
-Erie
-
-<img width = 600 src= "https://github.com/chile2706/PowerBI/assets/147631781/3067a3f7-76ff-4aaa-b942-85f0aeeb3cb3">
-Huron
-
-<img width = 600 src= https://github.com/chile2706/PowerBI/assets/147631781/5ce66f9f-6d31-4843-a795-c099d911cd7c">
+Erie <img width = 600 src= "https://github.com/chile2706/PowerBI/assets/147631781/3067a3f7-76ff-4aaa-b942-85f0aeeb3cb3">
+Huron <img width = 600 src= "https://github.com/chile2706/PowerBI/assets/147631781/5ce66f9f-6d31-4843-a795-c099d911cd7c">
 
 Michigan
 
