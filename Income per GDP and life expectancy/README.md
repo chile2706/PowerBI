@@ -14,6 +14,7 @@
 
 
 * This dashboard was based on [Power Bi 2021 Week 13 Challenge by Workout Wednesday](https://workout-wednesday.com/pbi-2021-w13/)
+
 #### Data set:
 This report is made of from 4 tables: `data geography`, `income per person`, `life expectancy years`, `population total` ([Link](https://data.world/missdataviz/wow2021-w11))
 
@@ -37,10 +38,11 @@ This report is made of from 4 tables: `data geography`, `income per person`, `li
 ---
 ## Data Transformation
 * `Unpivot`:
-(include screenshot)
+- create a new table by unpivoting `year` column
 
 ![image](https://github.com/chile2706/PowerBI/assets/147631781/b84ddcf7-f1dc-4e55-8294-276706e90364)
 
+- create a relationship between new table with other tables (so that we can have year axis for our bubble chart)
 ![image](https://github.com/chile2706/PowerBI/assets/147631781/d2bbcbdf-8c81-4306-a764-b09dcb64035c)
 
 ---
@@ -49,25 +51,25 @@ This report is made of from 4 tables: `data geography`, `income per person`, `li
 * [Custom Overlay](#custom-overlay)
 ### Bubble Chart
 
-![image](https://github.com/chile2706/PowerBI/assets/147631781/f5027cd6-eec8-4018-a966-476cb9458586)
+<img width=150 src="https://github.com/chile2706/PowerBI/assets/147631781/f5027cd6-eec8-4018-a966-476cb9458586">
+<img width=800 src="https://github.com/chile2706/PowerBI/assets/147631781/6c0bd517-03f3-4200-b2bd-26c79ce5f0fd">
+
 
 
 
 ### Custom Overlay
+- customize overlay by Powerpoint and then add it as a background to a new page
+  
 ![image](https://github.com/chile2706/PowerBI/assets/147631781/ad3ec5e4-b399-40b6-b16e-080f72f4b8fe)
 
 
-(screenshot)
-
 ### Tooltip
-Card and Multi-row Card
+- Create a Tooltip page with Card and Multi-row Card
+  
 ![image](https://github.com/chile2706/PowerBI/assets/147631781/8f0d05ce-0e11-4559-802b-68053bb55807)
 
 
 ## Insights
 **Are there any countries with an income over 50k that have an average life expectancy lower than 74?**
-- How to do that
-(screen shot)
-
 
 
