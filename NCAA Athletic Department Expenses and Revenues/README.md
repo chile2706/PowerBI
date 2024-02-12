@@ -5,11 +5,11 @@
 - [Data Visualization](#data-visualization)
 ---
 ## Problem Introduction
-![image](https://github.com/chile2706/PowerBI/assets/147631781/821162f6-1e88-466e-ae20-4f71d29efcdd)
+<img width=350 src="https://github.com/chile2706/PowerBI/assets/147631781/821162f6-1e88-466e-ae20-4f71d29efcdd">
 
-![image](https://github.com/chile2706/PowerBI/assets/147631781/c5874005-8493-4192-95f5-c44bad6a0d1c)
+<img width=350 src="https://github.com/chile2706/PowerBI/assets/147631781/c5874005-8493-4192-95f5-c44bad6a0d1c">
 
-![image](https://github.com/chile2706/PowerBI/assets/147631781/05e11aff-d94f-47e1-b226-7555a1f6f981)
+<img width=350 src="https://github.com/chile2706/PowerBI/assets/147631781/05e11aff-d94f-47e1-b226-7555a1f6f981">
 
 
 
