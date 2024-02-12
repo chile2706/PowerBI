@@ -5,11 +5,11 @@
 - [Data Visualization](#data-visualization)
 ---
 ## Problem Introduction
-<img width=350 src="https://github.com/chile2706/PowerBI/assets/147631781/821162f6-1e88-466e-ae20-4f71d29efcdd">
+<img width=325 src="https://github.com/chile2706/PowerBI/assets/147631781/821162f6-1e88-466e-ae20-4f71d29efcdd">
 
-<img width=350 src="https://github.com/chile2706/PowerBI/assets/147631781/c5874005-8493-4192-95f5-c44bad6a0d1c">
+<img width=325 src="https://github.com/chile2706/PowerBI/assets/147631781/c5874005-8493-4192-95f5-c44bad6a0d1c">
 
-<img width=350 src="https://github.com/chile2706/PowerBI/assets/147631781/05e11aff-d94f-47e1-b226-7555a1f6f981">
+<img width=325 src="https://github.com/chile2706/PowerBI/assets/147631781/05e11aff-d94f-47e1-b226-7555a1f6f981">
 
 
 
@@ -51,13 +51,13 @@ Selected Measure = SWITCH(values('Measures Table'[Measures]), "Total Profits", s
 Over Year
 
 ![image](https://github.com/chile2706/PowerBI/assets/147631781/045a0d59-2001-40ba-b243-19a31487e65f)
-![image](https://github.com/chile2706/PowerBI/assets/147631781/09c517fc-127d-4fbf-b02a-af03d501dcac)
+<img width=600 src="https://github.com/chile2706/PowerBI/assets/147631781/09c517fc-127d-4fbf-b02a-af03d501dcac">
 
 
 By Conference
 
 ![image](https://github.com/chile2706/PowerBI/assets/147631781/5a5dea2b-88f1-4f2f-8775-c5d1aa7f6342)
-![image](https://github.com/chile2706/PowerBI/assets/147631781/c23569ce-7dfb-473d-9276-d2ff3d59c81b)
+<img width=600 src="https://github.com/chile2706/PowerBI/assets/147631781/c23569ce-7dfb-473d-9276-d2ff3d59c81b">
 
 
 ### Slicer
